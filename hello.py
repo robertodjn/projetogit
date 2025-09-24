@@ -8,5 +8,5 @@ print("estou aprendendo git t github")
 
 
 
-
+git push -u origin main
 
